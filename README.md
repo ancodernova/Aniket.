@@ -1,6 +1,9 @@
 # 💫 About Me:
-Skills:<br>Web Development: MERN Stack, Django, TailwindCSS<br>Programming: JavaScript, Python, C, C++, Java<br>Tools: Git/GitHub, Postman<br>Soft Skills: Time Management, Problem-Solving, Adaptability, Teamwork, Communication<br>Achievements & Projects:<br>Hackanova 4.0 (Feb 2025) – Domain Winner<br>Developed Signifique, an AI-powered sign language learning & communication app using Flask, React, OpenCV, and MediaPipe.<br>Recursion 2.0 (March 2022) – 2nd Runner Up<br>Built an AI/ML-based Space Debris Tracker to predict hazards using big data analysis.<br>StudyBuddy – A Learning Platform (Dec 2024)<br>A Django-based virtual study platform for collaborative learning with real-time discussions.
+As a Computer Engineering freshman, I have a strong foundation in C and Java, with a keen focus on Data Structures and Algorithms (DSA) and competitive programming. My skills are honed through active participation on platforms like LeetCode and HackerRank.  
 
+Passionate about innovation, I am eager to learn, collaborate, and contribute to exciting tech projects. Beyond coding, I have a deep interest in photography and cinematography, which fuels my creativity. I am also refining my graphics and animation skills using Blender and AutoCAD to enhance structural design and visualization.  
+
+Open to connecting with like-minded students and professionals in the tech industry!
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ancodernova20@gmail.com) 
