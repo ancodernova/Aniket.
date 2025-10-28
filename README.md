@@ -1,27 +1,113 @@
-# 💫 About Me:
-As a Computer Engineering freshman, I have a strong foundation in C and Java, with a keen focus on Data Structures and Algorithms (DSA) and competitive programming. My skills are honed through active participation on platforms like LeetCode and HackerRank.  
+<!--   Welcome-img  -->
+![](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,1:6DD5ED&height=200&section=header&text=Aniket%20Atole&fontSize=70&fontColor=fff&animation=twinkling)
 
-Passionate about innovation, I am eager to learn, collaborate, and contribute to exciting tech projects. Beyond coding, I have a deep interest in photography and cinematography, which fuels my creativity. I am also refining my graphics and animation skills using Blender and AutoCAD to enhance structural design and visualization.  
+<!--   my-icons -->
+<p align="center">
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+  <a href="https://github.com/your-username?tab=followers"><img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social"></a>
+  <a href="https://github.com/your-username/your-username/stargazers"><img src="https://img.shields.io/github/stars/your-username/your-username.svg?logo=github"></a>
+  <a href="https://github.com/your-username/your-username/network/members"><img src="https://img.shields.io/github/forks/your-username/your-username.svg?color=blue&logo=github"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username" alt="visitors"/>   
+</p>
 
-Open to connecting with like-minded students and professionals in the tech industry!
+<!--   my-header-img -->
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/main/header.png?raw=true" alt="Header" width="100%"/>
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ancodernova20@gmail.com) 
+<!--   my-ticker -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Aniket+Atole;SDE+Intern+@+Six+Ladders;Chairperson+IEEE+SPIT;AI/ML+%7C+Full-Stack+%7C+React+Native;Hackathon+Winner+%7C+Barclays+Finalist;Always+building+scalable+systems" alt="Typing SVG"/>
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ancodernova&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ancodernova&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ancodernova&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--   Profile views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ancodernova&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<hr/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h1 align="center">About Me <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width="80"></h1>
 
----
-[![](https://visitcount.itsvg.in/api?id=ancodernova&icon=1&color=0)](https://visitcount.itsvg.in)
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔥 **Finalist** – Barclays Hack-o-Hire 2025 (Top 24)  
+- 🏆 **Domain Winner** – SE Hack CSI (AI/ML), Hackanova 4.0, Recursion 2.0  
+- 🚀 **SDE Intern** @ Six Ladders – Built GenAI edtech platform (Next.js + Docker + GCP)  
+- 📱 **React Native Intern** @ Triblet – Resolved 389+ ESLint issues, smooth production launch  
+- 💼 **Technical & Marketing Intern** @ Schmooze Mavericks – Boosted app retention via UI & analytics  
+- 👔 **Chairperson** – IEEE SPIT (Sep 2025 – Present)  
+- 📫 **Reach me**: aniketatole20@gmail.com  
+- ⚡ **Fun fact**: I built my own ISL dataset from scratch and hit **98% accuracy**!
+
+    </td>
+    <td valign="top" width="50%">
+      <img src="/github-metrics.svg" alt="Metrics"/>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2 align="center">My Trophies 🏅</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&margin-w=15&column=-1" alt="Trophies"/>
+  </a>
+</p>
+
+<hr/>
+
+<h1 align="center">Tech Arsenal <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="35"></h1>
+
+| Domain | Tech Stack |
+|--------|------------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts"/> |
+| **Web Dev** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flask,django"/> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=react"/> (React Native) |
+| **AI/ML** | <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch"/> Mediapipe, YOLOv8, DeepSORT, dlib |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase"/> |
+| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,postman,ganache"/> |
+| **Others** | LaTeX, Linux, Redis, Docker, GCP |
+
+<hr/>
+
+<h2 align="center">Featured Projects 🚀</h2>
+
+| Project | Tech | Demo | Impact |
+|---------|------|------|--------|
+| **FortiPhrase** | Python, Ollama, ML, Next.js | [Demo](#) | Offline password analyzer with AI passphrase generation & PII detection |
+| **ThirdEye** | Python, YOLOv8, DeepSORT, Next.js | [Demo](#) | Real-time surveillance – altercation & anomaly detection |
+| **Signifique** | Mediapipe, Random Forest, Llama, React.js | [Demo](#) | **98% accurate** ISL translator with **custom dataset** |
+
+> *All projects are production-ready, Dockerized, and deployed on GCP.*
+
+<hr/>
+
+<h2 align="center">Connect With Me 🤝</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aniketatole20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<hr/>
+
+<h2 align="center">Coding Platforms 🧑‍💻</h2>
+<p align="center">
+  <a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codeforces.com/profile/your-username"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/your-username"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+</p>
+
+<hr/>
+
+<h1 align="center">GitHub Stats 📊</h1>
+
+```text
+!<a href="https://github-readme-stats.vercel.app/api?username=your-username&theme=radical&hide_border=true&show_icons=true" target="_blank" rel="noopener noreferrer nofollow"></a>
+!<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=radical&layout=compact&hide_border=true" target="_blank" rel="noopener noreferrer nofollow"></a>
